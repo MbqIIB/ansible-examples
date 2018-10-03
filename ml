@@ -1,9 +1,11 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><ReleaseNotes><ReleaseNotesItem Description="This change affects to following test cases and ATS&#13;&#10;&#13;&#10;ATS_IMS_EUTRA&#13;&#10;ATS_IMS_FBBA&#13;&#10;ATS_IMS_IRAT&#13;&#10;ATS_IMS_UTRAN&#13;&#10;ATS_IMS_WLAN&#13;&#10;ATS_LTE&#13;&#10;ATS_LTE_A_IRAT&#13;&#10;ATS_LTE_A_PRO&#13;&#10;ATS_LTE_A_R10_R11&#13;&#10;ATS_LTE_A_R12&#13;&#10;ATS_LTE_IRAT&#13;&#10;" FiledAgainst="TTCN-3 ADAPTER LIBRARY" HowFound="Unassigned" Id="407487" PlannedFor="TTCN-3 ADAPTER LIBRARY backlog" Priority="High" RSCTSSupportReference="" RSQSKnownIssue="false" RelatedChangeSets="" ReleaseNotesDescription="" ReleaseNotesSummary="" Resolution="" Severity="Normal" Status="Done" Summary="R5w180006 New type defintion for Content-type header" Tags="#imscodecs" Type="Task"><RelatedChangeSet ChangeSet-ID="_noI2QEbsEei-CNtv6hycEQ" WorkItem-ID="407487"/>
-        <RelatedChangeSet ChangeSet-ID="_y-bWQEJQEei-CNtv6hycEQ" WorkItem-ID="407487">Encoder updated</RelatedChangeSet>
-<RelatedChangeSet ChangeSet-ID="_9Qq6gCz5EeiCZPp6_pASkA" WorkItem-ID="407487">new type definition. IMS codecs not backward compatible!</RelatedChangeSet>
-        <RelatedChangeSet ChangeSet-ID="_57bqK0I-Eei-CNtv6hycEQ" WorkItem-ID="407487"/>
-</ReleaseNotesItem>
-    <ReleaseNotesItem Description="Create skeleton of the SL_UE Simlib with 0 functionality." FiledAgainst="SL_UE" HowFound="Unassigned" Id="427364" PlannedFor="SIMLIB SL_UE release 18.24.0" Priority="High" RSCTSSupportReference="" RSQSKnownIssue="false" RelatedChangeSets="" ReleaseNotesDescription="" ReleaseNotesSummary="Feature: First implementation of LTE Sidelink UE SimLib." Resolution="" Severity="Normal" Status="Done" Summary="SL_UE Simlib" Tags="v2x" Type="Task">
+<ReleaseNotes>
+  <ReleaseNotesItem Description="SomeDesc" FiledAgainst="TTCN-3 ADAPTER LIBRARY" HowFound="Unassigned" Id="407487" PlannedFor="TTCN-3 ADAPTER LIBRARY backlog" Priority="High" RSCTSSupportReference="" RSQSKnownIssue="false" RelatedChangeSets="" ReleaseNotesDescription="" ReleaseNotesSummary="" Resolution="" Severity="Normal" Status="Done" Summary="R5w180006 New type defintion for Content-type header" Tags="#imscodecs" Type="Task">
+    <RelatedChangeSet ChangeSet-ID="_noI2QEbsEei-CNtv6hycEQ" WorkItem-ID="407487"/>
+    <RelatedChangeSet ChangeSet-ID="_y-bWQEJQEei-CNtv6hycEQ" WorkItem-ID="407487">Encoder updated</RelatedChangeSet>
+    <RelatedChangeSet ChangeSet-ID="_9Qq6gCz5EeiCZPp6_pASkA" WorkItem-ID="407487">new type definition. IMS codecs not backward compatible!</RelatedChangeSet>
+    <RelatedChangeSet ChangeSet-ID="_57bqK0I-Eei-CNtv6hycEQ" WorkItem-ID="407487"/>
+  </ReleaseNotesItem>
+  <ReleaseNotesItem Description="Create skeleton of the SL_UE Simlib with 0 functionality." FiledAgainst="SL_UE" HowFound="Unassigned" Id="427364" PlannedFor="SIMLIB SL_UE release 18.24.0" Priority="High" RSCTSSupportReference="" RSQSKnownIssue="false" RelatedChangeSets="" ReleaseNotesDescription="" ReleaseNotesSummary="Feature: First implementation of LTE Sidelink UE SimLib." Resolution="" Severity="Normal" Status="Done" Summary="SL_UE Simlib" Tags="v2x" Type="Task">
         Feature: First implementation of LTE Sidelink UE SimLib.
         <RelatedChangeSet ChangeSet-ID="_8PncMEYeEei-CNtv6hycEQ" WorkItem-ID="427364"/>
 <RelatedChangeSet ChangeSet-ID="_KisUJEjKEei-CNtv6hycEQ" WorkItem-ID="427364">d2d DB extension</RelatedChangeSet>
